@@ -125,7 +125,7 @@
  "Description":"An entirely new camara system",
  "Brand":"LG"},
 {
- "CostP":6200",
+ "CostP":"6200",
  "GraphicName":"SSD",
  "MSRP":"480",
  "productN":"LLL",
