@@ -5,8 +5,8 @@
  "productN":"I",
  "QOBO":"2",
  "QOH":"1",
- "Description":"An entirely new camara system",
- "Brand":"IPhone"},
+ "Description":"Fast meney speed, 8G Memory",
+ "Brand":"Apple"},
 {
  "CostP":"700",
  "GraphicName":"SSD",
@@ -15,7 +15,7 @@
  "QOBO":"2",
  "QOH":"1",
  "Description":"All -new dual 12Mp camera",
- "Brand":"IPhone"},
+ "Brand":"Apple"},
 {
  "CostP":"850",
  "GraphicName":"SSD",
@@ -23,8 +23,8 @@
  "productN":"III",
  "QOBO":"2",
  "QOH":"1",
- "Description":"a new generation of IPhone, the iPhone 8 is designed with the most durable glass ever in a smartphone and a stronger aerospace-grade aluminum band",
- "Brand":"IPhone"},
+ "Description":"a new generation of ipad, the ipad 4 is designed with the most durable glass",
+ "Brand":"Apple"},
 {
  "CostP":"750",
  "GraphicName":"SSD",
@@ -32,8 +32,8 @@
  "productN":"IIII",
  "QOBO":"2",
  "QOH":"1",
- "Description":"A new generation of iPhone, the iPhone 8 Plus is designed with the most durable glass ever in a smartphone and a stranger aerospace-grade aluminum band",
- "Brand" : "IPhone"},
+ "Description":"A new generation of ipad, the ipad 4 Plus is designed with the most durable glass",
+ "Brand" : "Apple"},
 {
  "CostP":"600",
  "GraphicName":"SSD",
@@ -78,7 +78,7 @@
  "QOBO":"2",
  "QOH":"1",
  "Description":"An entirely new camara system ",
- "Brand":"Google"},
+ "Brand":"Dell"},
 {
  "CostP":"820",
  "GraphicName":"SSD",
@@ -87,7 +87,7 @@
  "QOBO":"2",
  "QOH":"1",
  "Description":"An entirely new camara system",
- "Brand":"Google"},
+ "Brand":"Dell"},
 {
  "CostP":"860",
  "GraphicName":"SSD",
@@ -96,7 +96,7 @@
  "QOBO":"2",
  "QOH":"1",
  "Description":"An entirely new camara system",
- "Brand":"Google"},
+ "Brand":"Dell"},
 {
  "CostP":"810",
  "GraphicName":"SSD",
@@ -105,7 +105,7 @@
  "QOBO":"2",
  "QOH":"1",
  "Description":"An entirely new camara system",
- "Brand":"Google"},
+ "Brand":"Dell"},
 {
  "CostP":"590",
  "GraphicName":"SSD",
