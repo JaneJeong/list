@@ -2,7 +2,7 @@
 {
  "CostP":"600",
  "GraphicName":"SSD",
- "MSRP":"509.99",
+ "MSRP":"509",
  "productN":"K54D",
  "QOBO":"0",
  "QOH":"1",
@@ -11,7 +11,7 @@
 {
  "CostP":"500",
  "GraphicName":"SSD",
- "MSRP":"599.99",
+ "MSRP":"599",
  "productN":"K28A",
  "QOBO":"0",
  "QOH":"1",
@@ -34,7 +34,8 @@
  "QOBO":"2",
  "QOH":"1",
  "Description":"Window 10, 11 touthscreen, An entirely new camara system, Intel core i3, inter HD griphics 520, 16GB DDR Memory, 1000GB HDD,  128G SSD",
- "Brand":"Samsung"},{"CostP":"800",
+ "Brand":"Samsung"},
+ {"CostP":"800",
  "GraphicName":"SSD",
  "MSRP":"500",
  "productN":"I",
